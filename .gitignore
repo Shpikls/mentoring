@@ -1,2 +1,6 @@
 # ide files
 .idea
+
+# project files
+node_modules
+dist
