@@ -32,3 +32,5 @@ export type GetRespObj = {
 export type URLOptions = {
     [key: string]: string;
 };
+
+export type CallBack = <T>(data?: T) => void;
