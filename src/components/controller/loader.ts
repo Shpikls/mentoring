@@ -1,4 +1,4 @@
-import { ResponseStatusCode } from 'src/enum';
+import ResponseStatusCode from 'src/enum';
 import { GetRespObj, NewsData, URLOptions } from '../../types';
 
 class Loader {
